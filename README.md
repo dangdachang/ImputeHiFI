@@ -44,7 +44,7 @@ conda activate ImputeHiFI
 
 In this environment, all the need of ImputeHiFI have been installed.
 
-### Method2: to install python3 version from Pypi
+### Method2: install from Pypi
 
 ```
 pip install ImputeHiFI
