@@ -2,10 +2,9 @@
 
 ## ImputeHiFI: an imputation method for single-cell multiplexed DNA FISH data by utilizing single-cell Hi-C and RNA FISH data
 
+![Workflow](./assets/Workflow.JPG)
 
 
-
-![](C:\WPS-Syn\Program\ToolsDemo\ImputeHiFI\幻灯片1.JPG)
 
 ## Installation instructions
 
